@@ -1,32 +1,4 @@
 
-
-numerical-methods-hamiltonian-
-Repository navigation
-Code
-Issues
-Pull requests
-Python code and numerical experiments for simulating Hamiltonian dynamical systems using geometric and symplectic integrators. Includes implementations of classical and high‑order methods, along with detailed convergence studies for several benchmark problems.
-
- 1 star
- 0 forks
- 0 watching
- 1 Branch
- 0 Tags
- Activity
-Public repository
-tsaknakesathanasios08-web/numerical-methods-hamiltonian-
-Name	
-tsaknakesathanasios08-web
-tsaknakesathanasios08-web
-3 days ago
-README.md
-3 days ago
-numerical_results_in_hamiltonian_intinial_value_problems (5).pdf
-5 days ago
-python_codes (2).pdf
-5 days ago
-Repository files navigation
-README
 Numerical Methods for ODEs & Hamiltonian Systems
 This repository contains Python implementations of various numerical methods for solving:
 
